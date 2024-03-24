@@ -29,6 +29,9 @@ The dataset comprises 2,77,524 50x50 pixel RGB digital image patches derived fro
   - **Malignant (1):** Ductal Carcinoma, Lobular Carcinoma, Mucinous Carcinoma, Papillary Carcinoma
   - **Benign (0):** Adenosis, Fibroadenoma, Phyllodestumor, Tubular-adenoma
 
+## Published Paper
+A paper based on this project has been published in IEEE Xplore. You can access it.(https://ieeexplore.ieee.org/document/10060690).
+
 ## Usage
 To utilize this project, follow these steps:
 1. Clone the repository to your local machine.
