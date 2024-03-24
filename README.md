@@ -1,4 +1,4 @@
-# Breast Cancer Detection using Machine Learning
+# Particle Swarm Optimization for Predicting Breast Cancer
 
 This project aims to detect breast cancer using machine learning algorithms applied to medical images. The system utilizes convolutional neural networks (CNN) for feature extraction, particle swarm optimization (PSO) for feature selection, and support vector machine (SVM) for classification.
 
